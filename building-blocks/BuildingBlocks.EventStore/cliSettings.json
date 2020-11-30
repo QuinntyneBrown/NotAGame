@@ -1,0 +1,1 @@
+{"RootNamespace":"NotAGame","Namespace":"BuildingBlocks.EventStore","Domain":"NotAGame.Domain","Api":"NotAGame.Api","Core":"NotAGame.Core","EntityIdDataType":"Guid"}
